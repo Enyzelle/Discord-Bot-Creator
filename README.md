@@ -1,7 +1,7 @@
 # 🤖 Discord Bot Creator Pro
 
 <div align="center">
-  <img src="https://your-banner-image-url.png" alt="Discord Bot Creator Banner" width="600"/>
+  <img src="banner.png" alt="Discord Bot Creator Banner" width="600"/>
   
   [![License](https://img.shields.io/github/license/Enyzelle/Discord-Bot-Creator)](https://github.com/Enyzelle/Discord-Bot-Creator/blob/main/LICENSE)
   [![Stars](https://img.shields.io/github/stars/Enyzelle/Discord-Bot-Creator)](https://github.com/Enyzelle/Discord-Bot-Creator/stargazers)
