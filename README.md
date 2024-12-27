@@ -3,10 +3,10 @@
 <div align="center">
   <img src="https://your-banner-image-url.png" alt="Discord Bot Creator Banner" width="600"/>
   
-  [![License](https://img.shields.io/github/license/yourusername/discord-bot-creator)](https://github.com/yourusername/discord-bot-creator/blob/main/LICENSE)
-  [![Stars](https://img.shields.io/github/stars/yourusername/discord-bot-creator)](https://github.com/yourusername/discord-bot-creator/stargazers)
-  [![Issues](https://img.shields.io/github/issues/yourusername/discord-bot-creator)](https://github.com/yourusername/discord-bot-creator/issues)
-  [![Discord](https://img.shields.io/discord/your-discord-server-id)](https://discord.gg/your-invite-link)
+  [![License](https://img.shields.io/github/license/Enyzelle/discord-bot-creator)](https://github.com/Enyzelle/discord-bot-creator/blob/main/LICENSE)
+  [![Stars](https://img.shields.io/github/stars/Enyzelle/discord-bot-creator)](https://github.com/Enyzelle/discord-bot-creator/stargazers)
+  [![Issues](https://img.shields.io/github/issues/Enyzelle/discord-bot-creator)](https://github.com/Enyzelle/discord-bot-creator/issues)
+  [![Discord](https://img.shields.io/discord/1322138276932616252)](https://discord.gg/ggsas)
 </div>
 
 ## 📖 About
@@ -126,9 +126,9 @@ If you find this project helpful, please consider:
 
 ## 📞 Contact
 
-- Discord: your-discord-username
-- Email: your-email@example.com
-- Twitter: [@your-twitter-handle](https://twitter.com/your-handle)
+- Discord: yz_yuriza
+- Email: enyz.contact@gmail.com
+- IG: [@enyzelle](https://twitter.com/enyzelle)
 
 ## 🙏 Acknowledgments
 
@@ -138,5 +138,5 @@ If you find this project helpful, please consider:
 
 ---
 <div align="center">
-  Made with ❤️ by enyz
+  Made with ❤️ by Enyzelle
 </div>
