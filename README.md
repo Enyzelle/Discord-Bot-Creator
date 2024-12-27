@@ -51,11 +51,11 @@ chmod +x create_discord_bot.sh
 ## 📋 Requirements
 
 ### For JavaScript bots:
-- Node.js v16.9.0 or higher
+- Node.js 22.12.0 or higher
 - npm (Node Package Manager)
 
 ### For Python bots:
-- Python 3.8 or higher
+- Python Python 3.13.1 or higher
 - pip (Python Package Manager)
 
 ## 🎯 Generated Project Structure
