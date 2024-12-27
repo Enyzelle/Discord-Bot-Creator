@@ -3,9 +3,9 @@
 <div align="center">
   <img src="https://your-banner-image-url.png" alt="Discord Bot Creator Banner" width="600"/>
   
-  [![License](https://img.shields.io/github/license/Enyzelle/discord-bot-creator)](https://github.com/Enyzelle/discord-bot-creator/blob/main/LICENSE)
-  [![Stars](https://img.shields.io/github/stars/Enyzelle/discord-bot-creator)](https://github.com/Enyzelle/discord-bot-creator/stargazers)
-  [![Issues](https://img.shields.io/github/issues/Enyzelle/discord-bot-creator)](https://github.com/Enyzelle/discord-bot-creator/issues)
+  [![License](https://img.shields.io/github/license/Enyzelle/Discord-Bot-Creator)](https://github.com/Enyzelle/Discord-Bot-Creator/blob/main/LICENSE)
+  [![Stars](https://img.shields.io/github/stars/Enyzelle/Discord-Bot-Creator)](https://github.com/Enyzelle/Discord-Bot-Creator/stargazers)
+  [![Issues](https://img.shields.io/github/issues/Enyzelle/Discord-Bot-Creator)](https://github.com/Enyzelle/Discord-Bot-Creator/issues)
   [![Discord](https://img.shields.io/discord/1322138276932616252)](https://discord.gg/ggsas)
 </div>
 
@@ -30,8 +30,8 @@ Discord Bot Creator Pro is a powerful shell script that helps you create feature
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/discord-bot-creator.git
-cd discord-bot-creator
+git clone https://github.com/Enyzelle/Discord-Bot-Creator.git
+cd Discord-Bot-Creator
 ```
 
 2. Make the script executable:
