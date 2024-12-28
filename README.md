@@ -126,9 +126,9 @@ If you find this project helpful, please consider:
 
 ## 📞 Contact
 
-- Discord: yz_yuriza
-- Email: enyz.contact@gmail.com
-- IG: [@enyzelle](https://twitter.com/enyzelle)
+- 📧 Email: [Enyz](enyz.contact@gmail.com)
+- 📸 IG: [@enyzelle](https://instagram.com/enyzelle)
+- 🤝 Discord: [yz.yuriza](https://discord.com/users/1317482100290752604)
 
 ## 🙏 Acknowledgments
 
