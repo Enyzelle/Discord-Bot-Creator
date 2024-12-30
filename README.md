@@ -64,32 +64,36 @@ chmod +x create_discord_bot.sh
 ```
 $botname/
 ├── src/
-│   ├── commands/
-│   ├── events/
-│   └── index.js
-├── config.json
-├── .env
-└── package.json
+│ ├── commands/ # Command files
+│ ├── events/ # Event handlers
+│ ├── handlers/ # Command and event loaders
+│ └── index.js # Main bot file
+├── config.json # Bot configuration
+├── .env # Environment variables
+└── package.json # Dependencies
 ```
 
 ### Python (discord.py) Structure:
 ```
 $botname/
-├── cogs/
-│   ├── general.py
-│   └── events.py
-├── utils/
-│   └── config.py
-├── bot.py
-├── .env
-└── requirements.txt
+├── cogs/ # Command categories
+│ ├── general.py # General commands
+│ └── events.py # Event handlers
+├── utils/ # Utility functions
+│ └── config.py # Bot configuration
+├── bot.py # Main bot file
+├── .env # Environment variables
+└── requirements.txt # Dependencies
 ```
 
 ## 📚 Documentation
 
 ### JavaScript Bot Setup
 1. Add your bot token to `.env`
-2. Configure `clientId` and `guildId` in `config.json`
+2. Configure in `config.json`:
+   - Set `clientId` to your bot's application ID
+   - For testing: Add `guildId` for instant command updates
+   - For production: Leave `guildId` empty for global commands
 3. Install dependencies: `npm install`
 4. Start the bot: `node src/index.js`
 
@@ -101,6 +105,17 @@ $botname/
 3. Install dependencies: `pip install -r requirements.txt`
 4. Add your bot token to `.env`
 5. Start the bot: `python bot.py`
+
+### Slash Commands Guide
+- **Development Mode**: Set `guildId` in config.json for:
+  - Instant command updates
+  - Testing in a specific server
+  - Easy debugging
+
+- **Production Mode**: Remove `guildId` for:
+  - Global command deployment
+  - All servers access
+  - Up to 1-hour update time
 
 ## 🤝 Contributing
 
@@ -129,11 +144,12 @@ If you find this project helpful, please consider:
 - 📧 Email: [Enyz](enyz.contact@gmail.com)
 - 📸 IG: [@enyzelle](https://instagram.com/enyzelle)
 - 🤝 Discord: [yz.yuriza](https://discord.com/users/1317482100290752604)
+- - 💬 Discord Server: [Join our community](https://discord.gg/ggsas)
 
 ## 🙏 Acknowledgments
 
-- [Discord.js](https://discord.js.org/)
-- [discord.py](https://discordpy.readthedocs.io/)
+- [Discord.js](https://discord.js.org/) - JavaScript Discord API
+- [discord.py](https://discordpy.readthedocs.io/) - Python Discord API
 - All contributors who help improve this project
 
 ---
