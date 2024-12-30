@@ -144,7 +144,7 @@ If you find this project helpful, please consider:
 - 📧 Email: [Enyz](enyz.contact@gmail.com)
 - 📸 IG: [@enyzelle](https://instagram.com/enyzelle)
 - 🤝 Discord: [yz.yuriza](https://discord.com/users/1317482100290752604)
-- - 💬 Discord Server: [Join our community](https://discord.gg/ggsas)
+- 💬 Discord Server: [Join our community](https://discord.gg/ggsas)
 
 ## 🙏 Acknowledgments
 
